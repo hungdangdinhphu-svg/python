@@ -12,6 +12,8 @@ Hãy nhìn cách dữ liệu di chuyển từ ngoài vào trong một hàm thôn
 
 Pseudocode :
 
+```python
+
 x = input()
 
 def cal(x_local):
@@ -23,7 +25,7 @@ y = cal(x)
 
 
 
-
+'''
 
 
 
